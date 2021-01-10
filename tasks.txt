@@ -1,0 +1,13 @@
+Task 1:
+Develop a program for calculating and outputting the values ​​of functions. 
+For the value of the argument x entered from IR. 
+Allowable limits of change of the argument i = 8, j = 4, a = 15. 
+Functions defined by indices i and j: f1 = 〖(x + 3)〗 ^ 3; -20≤x≤20, f2 = 8100 / x ^ 2; 1≤x≤90, k = 8.
+
+Task 2:
+Write a program for determining the product of a sequence of numbers C1, C2, ..., Cn.
+
+Task 3:
+Compile and debug a training computer program for solving the following problem. 
+The three arrays in memory are specified by starting addresses and lengths. 
+Calculate and print to the output device the arithmetic mean of the product of all numbers for each array.
